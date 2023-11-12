@@ -1,5 +1,5 @@
 import React from "react";
-import Todo from "./pages/Todo";
+import Todo from "./pages/TodoPage";
 import CounterPage from "./pages/CounterPage";
 import CreateTodo from "./components/Todo/CreateTodo";
 function App() {
